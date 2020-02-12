@@ -1,1 +1,1 @@
-Project Euler solutions using JS
+## Project Euler solutions using JS
